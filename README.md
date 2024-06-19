@@ -48,6 +48,7 @@ You will need to install following libraries,
 - numpy: [https://numpy.org](https://numpy.org)
 - pandas: [https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)
 - tensorly: [http://tensorly.org/stable/index.html](http://tensorly.org/stable/index.html)
+   - `pip install -U 'tensorly==0.6.0'` works best 
 - sklearn: [https://pykalman.github.io](https://pykalman.github.io)
 - matplotlib: [https://matplotlib.org](https://matplotlib.org)
 - tqdm: [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)
